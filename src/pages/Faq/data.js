@@ -106,7 +106,7 @@ export const projectFaqs = [
         target="_blank"
         rel="noreferrer"
         >open an issue in our badging repo</a>{" "}
-         or reach on the {" "}
+         or reach us at the {" "}
          <a
          href="https://join.slack.com/t/chaoss-workspace/shared_invite/zt-28p56bayt-67TRjdA4yJWQmUd4hCzULg"
          target="_blank"
